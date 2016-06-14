@@ -19,12 +19,19 @@ This is a partial collection of my papers, including some early papers (see belo
 >
 >[ConflictCheapTalkandJespersensCylce.pdf](https://github.com/robinlclark/rlc-papers/blob/master/ConflictCheapTalkandJespersensCycle.pdf)
 >
->This paper uses a combination of game theory (in particular, Crawford and Sobel's (1981) work on signaling) and corpus data to work out a model of the change in the interpretation of negativr elements observed in many languages.
+>This paper uses a combination of game theory (in particular, Crawford and Sobel's (1981) work on signaling games) and corpus data to work out a model of the change in the interpretation of negativr elements observed in many languages.
 
 ###Old papers on learnability and language change
 
 >Robin Clark. 1992. "The Selection of Syntactic Knowledge." <i>Language Acquisition</i>. 2(2). 83-149.
+>
+>[selectionofSyntacticKnowledge.pdf](https://github.com/robinlclark/rlc-papers/blob/master/selectionofSyntacticKnowledge.pdf)
+>
+>An experiment in using Genetic Algorithms to do parameter setting.  Also shows an early interest in evolution and population modeling!
   
->Robin Clark and Ian Roberts. 1993. "A Computational Model of Language and Language Change." <i>Linguistic Inquiry</i>. 24(2). 299-345.
-  
+>Robin Clark and Ian Roberts. 1993. "A Computational Model of Language Learnability and Language Change." <i>Linguistic Inquiry</i>. 24(2). 299-345.
+>
+>[computationalModelofLanguageLearnabilityandLanguageChange.pdf](https://github.com/robinlclark/rlc-papers/blob/master/computationalModelofLanguageLearnabilityandLanguageChange.pdf)
+>
+>This paper tries to apply the learning model of "The Selection of Syntactic Knowledge" to a case of language change (the position of verbs in French).  
   
