@@ -61,6 +61,12 @@ This is a partial collection of my papers, including some early papers (see belo
 >
 >>An overview of the relationship between quantifiers, semantic automata, and numerosity.
 
+> - Stefan Heim, Corey T. McMillan, Robin Clark, Laura Baehr, Kylie Ternes, Christopher Olm, Nam Eun Min, and Murray Grossman. 2016. "How the brain learns how few are 'many': An fMRI study of the flexibility of quantifier semantics". <i>NeuroImage</i>. 125, 45-52.
+>
+>>>[NeuroImage 2016 Heim.pdf](https://github.com/robinlclark/rlc-papers/blob/master/NeuroImage%202016%20Heim.pdf)
+>
+>>This looks at the interpretation of "vague" quantifiers like <b>few</b> and <b>many</b> and illustrates how their interpretation can be manipulated by (slight) training.  
+
 ###Old papers on learnability and language change
 
 > - Robin Clark. 1992. "The Selection of Syntactic Knowledge." <i>Language Acquisition</i>. 2(2). 83-149.
