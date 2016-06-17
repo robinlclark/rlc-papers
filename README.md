@@ -67,6 +67,24 @@ This is a partial collection of my papers, including some early papers (see belo
 >
 >>This looks at the interpretation of "vague" quantifiers like <b>few</b> and <b>many</b> and illustrates how their interpretation can be manipulated by (slight) training.  
 
+> - Nicola Spotorno, Meghan Healey, Corey T. McMillan, Katya Rascovsky, David J. Irwin, Robin Clark and Murray Grossman. 2015. “Processing Ambiguity in a Linguistic Context: Decision-Making Difficulties in Non-Aphasic Patients with Behavioral Variant Frontotemporal Degeneration.” <i>Frontiers in Human Neuroscience</i> 9 (October): 1–8. doi:10.3389/fnhum.2015.00583. 
+>
+>>>[Front. Hum. Neurosci. 2015 Spotorno.pdf](https://github.com/robinlclark/rlc-papers/blob/master/Front.%20Hum.%20Neurosci.%202015%20Spotorno.pdf)
+>
+>>Some extent of ambiguity is ubiquitous in everyday conversations. For example, words have multiple meaning and very common pronouns, like “he” and “she” (anaphoric pronouns), have little meaning on their own and refer to a noun that has been previously introduced in the discourse. Ambiguity triggers a decision process that is not a subroutine of language processing but rather a more general domain resource. Therefore non-aphasic patients with limited decision-making capability can encounter severe limitation in language processing due to extra linguistic limitations. In the present study, we test patients with behavioral variant frontotemporal degeneration (bvFTD), focusing on anaphora as a paradigmatic example of ambiguity resolution in the linguistic domain. 
+
+> - Robin Clark and Murray Grossman. 2007. “Number Sense and Quantifier Interpretation.” <i>Topoi</i? 26 (1): 51–62. doi:10.1007/s11245-006-9008-2.
+>
+>>>[Topoi 2007 Clark.pdf](https://github.com/robinlclark/rlc-papers/blob/master/Topoi%202007%20Clark.pdf)
+>
+>>We consider connections between number sense—the ability to judge number—and the inter- pretation of natural language quantifiers. In particular, we present empirical evidence concerning the neuro- anatomical underpinnings of number sense and quan- tifier interpretation. We show, further, that impairment of number sense in patients can result in the impair- ment of the ability to interpret sentences containing quantifiers. This result demonstrates that number sense supports some aspects of the language faculty.
+
+> - McMillan, Corey T, Robin Clark, Peachie Moore, and Murray Grossman. 2006. “Quantifier Comprehension in Corticobasal Degeneration.” <i>Brain and Cognition</i> 62 (3): 250–60. doi:10.1016/j.bandc.2006.06.005.
+>
+>>>[Brain and Cognition 2006 Mcmillan.pdf](https://github.com/robinlclark/rlc-papers/blob/master/Brain%20and%20Cognition%202006%20McMillan.pdf)
+>
+>>In this study, we investigated patients with focal neurodegenerative diseases to examine a formal linguistic distinction between classes of generalized quantifiers, like “some X” and “less than half of X.” Our model of quantifier comprehension proposes that number knowledge is required to understand both first-order and higher-order quantifiers. The present results demonstrate that corticobasal degeneration (CBD) patients, who have number knowledge impairments but little evidence for a deficit understanding other aspects of language, are impaired in their comprehension of quantiWers relative to healthy seniors, Alzheimer’s disease (AD) and frontotemporal dementia (FTD) patients [F(3, 77) D 4.98; p < .005]. Moreover, our model attempts to honor a distinction in complexity between classes of quantifiers such that working memory is required to comprehend higher-order quantifiers. Our results support this distinction by demonstrating that FTD and AD patients, who have working memory limitations, have greater difficulty understanding higher-order quantifiers relative to first-order quantiWers [F(1, 77) D 124.29; p < .001]. An important implication of these findings is that the meaning of generalized quantifiers appears to involve two dissociable components, number knowledge and working memory, which are supported by distinct brain regions.
+
 ###Old papers on learnability and language change
 
 > - Robin Clark. 1992. "The Selection of Syntactic Knowledge." <i>Language Acquisition</i>. 2(2). 83-149.
