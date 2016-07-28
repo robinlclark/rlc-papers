@@ -53,6 +53,10 @@ This is a partial collection of my papers, including some early papers (see belo
 >
 >>This paper uses the framework of Clark and Parikh (2007) to look at Catalan; interesting because Catalan has null pronouns.  In other words, Catalan has a resource that English lacks and is able to distribute its resources differently!
 
+> - Robin Clark. 2009. "Games, Quantification, and Discourse Structure" in O. Majer, A-V Pietarinen and T. Tulenheimo (eds) <i>Games: Unifying Logic, Language, and Philosophy</i>. Springer. p. 139-150.
+>
+>>> [Clark_2009_Games_Quahtification_DS.pdf]{https://github.com/robinlclark/rlc-papers/blob/master/Clark_2009_Games_Quantification_DS.pdf)
+
 ###Neuroscience: Quantifiers, Number Sense and Strategic Reasoning
 
 > - Robin Clark. 2011. "Generalized quantifiers and number sense". <i>Philosophy Compass</i>. 6/9. 611-621.
