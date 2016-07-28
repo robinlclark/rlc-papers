@@ -55,7 +55,7 @@ This is a partial collection of my papers, including some early papers (see belo
 
 > - Robin Clark. 2009. "Games, Quantification, and Discourse Structure" in O. Majer, A-V Pietarinen and T. Tulenheimo (eds) <i>Games: Unifying Logic, Language, and Philosophy</i>. Springer. p. 139-150.
 >
->>> [Clark_2009_Games_Quahtification_DS.pdf]{https://github.com/robinlclark/rlc-papers/blob/master/Clark_2009_Games_Quantification_DS.pdf)
+>>> [Clark_2009_Games_Quahtification_DS.pdf](https://github.com/robinlclark/rlc-papers/blob/master/Clark_2009_Games_Quantification_DS.pdf)
 
 ###Neuroscience: Quantifiers, Number Sense and Strategic Reasoning
 
