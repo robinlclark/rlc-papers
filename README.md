@@ -57,6 +57,8 @@ This is a partial collection of my papers, including some early papers (see belo
 >
 >>> [Clark_2009_Games_Quahtification_DS.pdf](https://github.com/robinlclark/rlc-papers/blob/master/Clark_2009_Games_Quantification_DS.pdf)
 
+>>This paper gives a simple game theoretic method of evaluating logical quantifiers and updating the discourse model.
+
 ###Neuroscience: Quantifiers, Number Sense and Strategic Reasoning
 
 > - Robin Clark. 2011. "Generalized quantifiers and number sense". <i>Philosophy Compass</i>. 6/9. 611-621.
